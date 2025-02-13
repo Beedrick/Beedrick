@@ -1,5 +1,5 @@
 ## Hi there 👋 The year is 2025!! 🌱
-##This years goal is to improve on DSA problem solving skills.
+This years goal is to improve on DSA problem solving skills.
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Beedrick?theme=nord&font=Oxygen&ext=activity)
 <!--
 **Beedrick/Beedrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
