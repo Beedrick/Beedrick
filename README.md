@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Beedrick?theme=nord&font=Oxygen&ext=activity)
 <!--
 **Beedrick/Beedrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
